@@ -1,5 +1,7 @@
 # Parsley
 
+[![Join the chat at https://gitter.im/mgiacomini/Parsley.js](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mgiacomini/Parsley.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/guillaumepotier/Parsley.js.png?branch=master)](https://travis-ci.org/guillaumepotier/Parsley.js)
 
 Javascript form validation, without actually writing a single line of javascript!
